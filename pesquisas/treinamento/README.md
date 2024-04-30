@@ -1,1 +1,1 @@
-#
+Este diretório contém materiais de treinamento destinados a auxiliar os profissionais da prefeitura na compreensão e uso das ferramentas computacionais disponíveis. Inclui tutoriais, guias práticos, vídeos explicativos ou qualquer recurso que facilite o aprendizado e a aplicação das ferramentas.
