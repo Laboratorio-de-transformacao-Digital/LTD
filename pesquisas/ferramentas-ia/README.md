@@ -1,1 +1,1 @@
-#
+Neste diretório, você encontrará as ferramentas de IA organizadas e disponibilizadas para uso dos funcionários da prefeitura. Cada subdiretório pode conter scripts, modelos, documentação ou qualquer recurso necessário para implementar e utilizar as ferramentas de forma eficaz.
