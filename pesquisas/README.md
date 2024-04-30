@@ -1,1 +1,1 @@
-#
+Este diretório contém documentos relacionados à pesquisa de ferramentas de inteligência artificial (IA) para aprimoramento de currículos e recolocação profissional. Aqui você encontrará análises, relatórios e informações relevantes sobre as diferentes ferramentas investigadas.
