@@ -1,1 +1,1 @@
-#
+Neste diretório, você encontrará todo o código fonte e recursos relacionados ao desenvolvimento de dashboards, ferramentas computacionais e outros artefatos necessários para atingir os objetivos propostos. Esteja à vontade para contribuir com novas implementações, correções ou melhorias neste espaço.
